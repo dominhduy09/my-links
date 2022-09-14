@@ -1,6 +1,7 @@
 # my_storage
 All of my links and websites I have been creating:
-1. On Replit:
+> My Blog: https://dominhduy.blogspot.com
+> On Replit:
 - https://wibu.dominhduy.repl.co
 - https://parallax.dominhduy.repl.co
 - https://lacdit.dominhduy.repl.co
