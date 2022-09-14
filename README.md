@@ -13,4 +13,7 @@ All of my links and websites I have been creating:
 - https://MyCrush.dominhduy.repl.co
 - https://20-10.dominhduy.repl.co
 - https://linhtalinhtinh.dominhduy.repl.co
-- https://test-1.dominhduy.repl.co
+- https://test-1.dominhduy.repl.co - Portfolio
+
+> On Glitch:
+- https://duy-handsome.glitch.me/
