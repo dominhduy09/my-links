@@ -1,6 +1,8 @@
 # my-links STORAGE
 All of my links and websites I have been creating:
-> My Blog: https://dominhduy.blogspot.com
+> My Blog:
+- https://dominhduy.blogspot.com
+- https://hackmd.io/@dominhduy
 
 > On Replit:
 - https://wibu.dominhduy.repl.co
